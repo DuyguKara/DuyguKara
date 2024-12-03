@@ -5,8 +5,8 @@
   <li>🌱I’m currently learning React.js</li>
 </ul>
 
-#For Connect With Me
-[![LinkedIn]([https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png](https://www.vikingcamps.com/wp-content/uploads/2024/01/linkedin-logo-linkedin-icon-transparent-free-png.webp))]([https://www.linkedin.com/in/duygukara](https://www.linkedin.com/in/duygu-kara-b74226236/))
+# For Connect With Me
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)]([https://www.linkedin.com/in/duygukara](https://www.linkedin.com/in/duygu-kara-b74226236/))
 
 
 <!--
