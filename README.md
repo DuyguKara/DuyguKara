@@ -10,7 +10,7 @@
 <h4><a href="https://duygukara.github.io/Duygu-Kara-Resume/">MyResume⭐️</a></h4>
 
 ## Skills
-[![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)]
+[![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 
 <!--
