@@ -1,4 +1,13 @@
-## Hi there 👋
+<div align="center">Hi 👋, I'm Duygu Kara</div>
+
+<ul>
+  <li>📧I'm looking for an internship or job in front end, ui/ux or analyst fields.</li>
+  <li>🌱I’m currently learning React.js</li>
+</ul>
+
+#For Connect With Me
+[![LinkedIn]([https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png](https://www.vikingcamps.com/wp-content/uploads/2024/01/linkedin-logo-linkedin-icon-transparent-free-png.webp))]([https://www.linkedin.com/in/duygukara](https://www.linkedin.com/in/duygu-kara-b74226236/))
+
 
 <!--
 **DuyguKara/DuyguKara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
