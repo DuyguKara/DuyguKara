@@ -19,13 +19,13 @@
 </a>
 <span> &nbsp; </span>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS Logo" width="60" height="55">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS Logo" width="60" height="50">
 </a>
 <span> &nbsp; </span>
 
 ## Other Technologies
 <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap Logo" width="60" height="60"">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap Logo" width="50" height="50"">
 </a>
 <span> &nbsp; </span>
 <a href="https://expressjs.com/">
