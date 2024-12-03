@@ -11,7 +11,7 @@
 
 ## Skills
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="60">
 </a>
 <span> &nbsp; </span>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
@@ -19,17 +19,13 @@
 </a>
 <span> &nbsp; </span>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS Logo" width="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS Logo" width="60">
 </a>
 <span> &nbsp; </span>
 
 ## Other Technologies
 <a href="https://expressjs.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express.js Logo" width="40">
-</a>
-<span> &nbsp; </span>
-<a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap Logo" width="40">
 </a>
 <span> &nbsp; </span>
 <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
