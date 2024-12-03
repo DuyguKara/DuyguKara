@@ -7,7 +7,10 @@
 
 ## For Connect With Me
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/duygu-kara-b74226236/)
-<h4 margin-bottom="5px">[MyResume⭐️](https://duygukara.github.io/Duygu-Kara-Resume/)</h4>
+<h4><a href="https://duygukara.github.io/Duygu-Kara-Resume/">MyResume⭐️</a></h4>
+
+## Skills
+[![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)]
 
 
 <!--
