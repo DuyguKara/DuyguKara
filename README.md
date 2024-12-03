@@ -7,6 +7,7 @@
 
 ## For Connect With Me
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/duygu-kara-b74226236/)
+[MyResume⭐️](https://duygukara.github.io/Duygu-Kara-Resume/)
 
 
 <!--
