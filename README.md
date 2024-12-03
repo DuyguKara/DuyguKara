@@ -17,9 +17,37 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="40">
 </a>
+<span> &nbsp; </span>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS Logo" width="40">
+</a>
+<span> &nbsp; </span>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="40">
+## Other Technologies
+<a href="https://expressjs.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express.js Logo" width="40">
+</a>
+<span> &nbsp; </span>
+<a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap Logo" width="40">
+</a>
+<span> &nbsp; </span>
+<a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap Logo" width="40">
+</a>
+<span> &nbsp; </span>
+<a href="https://jquery.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg" alt="jquery Logo" width="40">
+</a>
+<span> &nbsp; </span>
+
+## Version Control
+<a href="https://git-scm.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git Logo" width="40">
+</a>
+<span> &nbsp; </span>
+<a href="https://github.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="github Logo" width="40">
 </a>
 
 
