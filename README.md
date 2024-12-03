@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="30">
 </a>
 
 
