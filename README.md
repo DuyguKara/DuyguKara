@@ -1,8 +1,7 @@
  <h1 align="center">Hi 👋, I'm Duygu Kara</h1>
 
 <ul>
-  <li>📧I'm looking for an internship or job in front end, ui/ux or analyst fields.</li>
-  <li>🌱I’m currently learning React.js</li>
+  <li>📧I'm looking for an internship or job in analyst fields.</li>
 </ul>
 
 ## For Contact With Me
